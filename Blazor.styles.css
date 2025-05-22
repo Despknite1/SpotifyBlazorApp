@@ -1,0 +1,20 @@
+/* /Layout/MainLayout.razor.rz.scp.css */
+.layout-wrapper[b-7zm4x0sqzy] {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-header[b-7zm4x0sqzy] {
+    background-color:blueviolet;
+    color: white;
+    padding: 20px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.main-footer[b-7zm4x0sqzy] {
+    background-color: #bde4fa;
+    padding: 40px 0;
+}
